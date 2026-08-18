@@ -25,3 +25,12 @@ The project will evolve through these layers:
 3. Staging transformations
 4. Dimensional models
 5. Analytics queries
+
+## Planned Technology Stack
+
+- Python
+- PostgreSQL
+- Git and GitHub
+- Docker
+- Docker Compose
+- REST APIs
