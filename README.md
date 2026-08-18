@@ -34,3 +34,7 @@ The project will evolve through these layers:
 - Docker
 - Docker Compose
 - REST APIs
+
+## Business Scenario
+
+The pipeline simulates an e-commerce company that needs reliable analytical data about customers, products, orders, payments, and external reference data.
