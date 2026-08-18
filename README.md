@@ -15,3 +15,13 @@ The pipeline will eventually ingest:
 - Order data
 - Payment data
 - External API reference data
+
+## Pipeline Stages
+
+The project will evolve through these layers:
+
+1. Source data
+2. Raw ingestion
+3. Staging transformations
+4. Dimensional models
+5. Analytics queries
